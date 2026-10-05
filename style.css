@@ -1,0 +1,49 @@
+body{
+  background-color: bisque;
+}
+.Store-Title{
+  color: lightblue;
+  font-size: 50px;
+  text-align: center;
+  background-color: rgb(159, 105, 39);
+  border: 3px black;
+  font-family: "Comic Sans MS", cursive;
+}
+.Text{
+  color: rgb(159, 105, 39);
+  padding-left: 50px;
+  text-align: center;
+  font-size: 18px;
+  font-family: "Comic Sans MS", cursive;
+}
+.h3{
+  color: rgb(120, 77, 25);
+  padding-left: 10px;
+  font-size: 20px;
+  font-family: "Comic Sans MS", cursive;
+}
+.recipe{
+  display:flex;
+  gap: 90px;
+}
+.ingredients{
+  color: rgb(120, 77, 25);
+  font-size: 16px;
+  font-family: "Comic Sans MS", cursive;
+  background-color: rgb(227, 194, 154);
+  margin-left: -90px;"
+}
+.ingredients-title{
+  color: rgb(159,105,30);
+  font-size: 16px;
+  font-family: "Comic Sans MS", cursive;
+  margin-left: -15px;"
+}
+.likeBtn{
+  padding: 8px 16px; 
+  font-size: 16px; 
+  cursor: pointer; 
+  border: 1px solid rgb(159,105,30);
+  border-radius: 4px; 
+  background-color: rgb(227, 194, 154);"
+}
